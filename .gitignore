@@ -1,0 +1,17 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Backend runtime data
+back-end/db.sqlite3
+back-end/uploads/
+back-end/documents/
+
+# Flutter
+front-end/.dart_tool/
+front-end/build/
+
